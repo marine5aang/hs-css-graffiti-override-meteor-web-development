@@ -1,9 +1,4 @@
----
-languages: html, css
-tags: dev tools, developer tools, style, selectors, authority, cascade, overrides, graffiti, kids
-type: lab
-level: 2
----
+
 
 # CSS Graffiti Override
 
