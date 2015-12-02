@@ -38,3 +38,5 @@ If we look, the div with the class `tag-1` is inside a div with the id `wall`...
  * [Smashing Magazine - CSS Specificity](http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/)
  * [CSS Tricks - CSS Specificity](http://css-tricks.com/specifics-on-css-specificity/)
  * [Code School - DiscoverDevTools](http://discover-devtools.codeschool.com/)
+
+<a href='https://learn.co/lessons/hs-css-graffiti-override' data-visibility='hidden'>View this lesson on Learn.co</a>
